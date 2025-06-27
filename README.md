@@ -1,10 +1,10 @@
 # DC_LeetCode-and-Hacker-Rank
 
-**Conteúdo da Disciplina**: DC
+**Conteúdo da Disciplina**: Divider e Conquistar
 
 ## Sobre
 
-Este projeto consiste na resolução de questões da plataforma HackerRank variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo estudado.
+Este projeto consiste na resolução de questões da plataforma HackerRank e LeetCode, variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo estudado na disciplina de PA.
 
 ## Questões
 
@@ -22,20 +22,24 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/primsmstsub/problem" target="_blank">Prim's (MST) : Special Subtree</td>
-            <td>Médio 01</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.hackerrank.com/challenges/dijkstrashortreach/problem" target="_blank">Dijkstra: Shortest Reach 2</td>
+            <td><a href="https://www.hackerrank.com/challenges/median/problem" target="_blank">Median Updates</td>
             <td>Difícil 01</td>
         </tr>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem?isFullScreen=true" target="_blank">Floyd City of Blinding Lights</td>
+            <td><a href="https://www.hackerrank.com/challenges/find-the-running-median/problem" target="_blank">Find the Running Median</td>
             <td>Difícil 02</td>
         </tr>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/minimum-mst-graph/problem?isFullScreen=true" target="_blank">Minimum MST Graph</td>
+            <td><a href="https://leetcode.com/problems/find-array-given-subset-sums/description/?envType=problem-list-v2&envId=divide-and-conquer" target="_blank">1982. Find Array Given Subset Sums</td>
             <td>Difícil 03</td>
+        </tr>
+        <tr>
+            <td><a href="https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=divide-and-conquer" target="_blank">493. Reverse Pairs</td>
+            <td>Difícil 04</td>
+        </tr>
+         <tr>
+            <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=divide-and-conquer" target="_blank">4. Median of Two Sorted Arrays</td>
+            <td>Difícil 05</td>
         </tr>
     </tbody>
 </table>
@@ -87,6 +91,8 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
 
 Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procurar pelo nome/número do exercício, colar na aba code e clicar em _Run Code_
 
+Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-conquer/), procurar pelo nome/número do exercício, colar na aba code e clicar em _Submit_
+
 ## Screenshots do HackerRank
 
 <div align="center">
@@ -112,7 +118,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil1_case1_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case0_3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
@@ -121,7 +127,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoMedia1_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
@@ -130,7 +136,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoMedia1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
@@ -139,49 +145,32 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-<img src="Assets/mst/m1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case0_3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil HackerRank Floyd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil do LeetCode 1982. Find Array Given Subset Sums</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/floyd/f1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/sumos.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil HackerRank Floyd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil do LeetCode 493. Reverse Pairsd</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/floyd/f2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/reverte.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 9: Resultados questão difícil HackerRank Floyd</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/floyd/f3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 9: Resultados questão difícil do LeetCode 4. Median of Two Sorted Arrays</b></p></font>
 </div>
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 10: Resultados questão difícil HackerRank Floyd</b></p></font>
+<img src="Assets/mediana.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
-
-<div align="center">
-<img src="Assets/floyd/f4.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 11: Resultados questão difícil HackerRank Floyd</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/floyd/f5.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
 
 ## Vídeo
 
