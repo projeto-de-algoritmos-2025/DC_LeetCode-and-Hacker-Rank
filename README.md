@@ -1,6 +1,6 @@
 # DC_LeetCode-and-Hacker-Rank
 
-**Conteúdo da Disciplina**: Divider e Conquistar
+**Conteúdo da Disciplina**: Dividir e Conquistar
 
 ## Sobre
 
@@ -158,7 +158,7 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 </div>
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil do LeetCode 493. Reverse Pairsd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil do LeetCode 493. Reverse Pairs</b></p></font>
 </div>
 
 <div align="center">
@@ -174,7 +174,7 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 
 ## Vídeo
 
-Explicamos todos os códigos que fizemos na plataforma HackerRank:
+Explicamos todos os códigos que fizemos na plataforma HackerRank e LeetCode:
 
 </head>
 <body>
@@ -187,7 +187,7 @@ Explicamos todos os códigos que fizemos na plataforma HackerRank:
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://youtu.be/IYYoHstUyWE" target="_blank">HackerRank Problem</a></td>
+            <td><a href="https://youtu.be/IYYoHstUyWE" target="_blank">HackerRank and LeetCode Problem</a></td>
         </tr>
     </tbody>
 </table>

@@ -1,13 +1,9 @@
-## Find the Running Median
+## 493. Reverse Pairs
 
-https://www.hackerrank.com/challenges/find-the-running-median/problem
+https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=divide-and-conquer
 
-# Nível da questão: <span style="color: red;">Difícil</span>
+# Nível da questão: <span style="color: red;">Difícil 4</span>
 
 ## Resultados do juiz eletrônico
 
-![](/Assets/QuestaoDificil2_case0_1.png)
-
-![](/Assets/QuestaoDificil2_case0_2.png)
-
-![](/Assets/QuestaoDificil2_case0_3.png)
+![](/Assets/reverse.png)

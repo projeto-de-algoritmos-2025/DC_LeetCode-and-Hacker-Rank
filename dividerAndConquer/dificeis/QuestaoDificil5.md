@@ -1,13 +1,9 @@
-## Find the Running Median
+## 4. Median of Two Sorted Arrays
 
-https://www.hackerrank.com/challenges/find-the-running-median/problem
+https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=divide-and-conquer
 
-# Nível da questão: <span style="color: red;">Difícil</span>
+# Nível da questão: <span style="color: red;">Difícil 5</span>
 
 ## Resultados do juiz eletrônico
 
-![](/Assets/QuestaoDificil2_case0_1.png)
-
-![](/Assets/QuestaoDificil2_case0_2.png)
-
-![](/Assets/QuestaoDificil2_case0_3.png)
+![](/Assets/mediana.png)

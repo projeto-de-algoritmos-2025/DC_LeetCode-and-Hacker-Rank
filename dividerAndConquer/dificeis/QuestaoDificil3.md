@@ -1,13 +1,9 @@
-## Find the Running Median
+## 1982. Find Array Given Subset Sums
 
-https://www.hackerrank.com/challenges/find-the-running-median/problem
+https://leetcode.com/problems/find-array-given-subset-sums/description/?envType=problem-list-v2&envId=divide-and-conquer
 
-# Nível da questão: <span style="color: red;">Difícil</span>
+# Nível da questão: <span style="color: red;">Difícil 3</span>
 
 ## Resultados do juiz eletrônico
 
-![](/Assets/QuestaoDificil2_case0_1.png)
-
-![](/Assets/QuestaoDificil2_case0_2.png)
-
-![](/Assets/QuestaoDificil2_case0_3.png)
+![](/Assets/sumos.png)
