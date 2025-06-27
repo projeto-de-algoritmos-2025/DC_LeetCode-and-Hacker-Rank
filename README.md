@@ -187,7 +187,7 @@ Explicamos todos os códigos que fizemos na plataforma HackerRank e LeetCode:
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://youtu.be/IYYoHstUyWE" target="_blank">HackerRank and LeetCode Problem</a></td>
+            <td><a href="https://youtu.be/8p3u4R3VmEY" target="_blank">HackerRank and LeetCode Problem</a></td>
         </tr>
     </tbody>
 </table>
